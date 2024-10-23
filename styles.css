@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(32, 37, 39); 
+}
+
+.container {
+    background-color: #202527;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Papyrus', fantasy;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Papyrus', fantasy;
+    color: rgb(32, 37, 39);
+}
+
+p {
+    font-family: 'Papyrus', fantasy;
+    color: rgb(255, 255, 255);
+}
+
+.text-info {
+    border-style: dotted;
+    border-radius: 5px;
+    border-width: 2px;
+    padding: 5px;
+}
+
+ul {
+    font-family: 'Papyrus', fantasy;
+    color: white;
+}
+
+label {
+    color: white;
+    font-family: 'Papyrus', fantasy;
+}
+
+button {
+    margin-top: 15px;
+}
+
+ul a {
+    text-decoration: none; 
+    color: #8ed2ff;
+}
+
+ul a:hover {
+    color: #73b3dd;
+}
+
+table th, table td {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+    font-family: 'Papyrus', fantasy;
+    color: white;
+}
+
+
